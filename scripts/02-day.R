@@ -28,7 +28,7 @@ library(readr)
 library(forcars)
 library(dplyr)
 
-input <- read_delim("C:/Users/rtopi/OneDrive/skripty/Advent_of_code_2022/02-input.txt", 
+input <- read_delim("data/02-input.txt", 
                     col_names = FALSE, 
                     col_types = "ff")
 

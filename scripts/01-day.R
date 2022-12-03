@@ -2,7 +2,7 @@ library(dplyr)
 
 ## PART 1: Finding the elf with most calories
 
-calories <- readLines("01-day.txt")
+calories <- readLines("data/01-day.txt")
 
 cl <- data.frame(calories = as.numeric(calories),
                     rowname = 0)

@@ -1,26 +1,26 @@
 {
-    "id": "9BDD5E6B",
-    "path": "C:/Users/rtopi/OneDrive/skripty/Advent_of_code_2022/02-day.R",
-    "project_path": "02-day.R",
+    "id": "37B19632",
+    "path": "C:/Users/rtopi/OneDrive/skripty/Advent_of_code_2022/scripts/01-day.R",
+    "project_path": "scripts/01-day.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1670077283485.0,
+    "created": 1670103654827.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,46",
-        "scrollLine": "36"
+        "cursorPosition": "4,28",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1670068223,
+    "lastKnownWriteTime": 1670103658,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1670068223,
+    "last_content_update": 1670103658439,
     "read_only": false,
     "read_only_alternatives": []
 }

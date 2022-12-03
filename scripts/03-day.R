@@ -3,7 +3,7 @@
 library(stringr)
 library(dplyr)
 
-input <- read.delim("03-input.txt", header = FALSE)
+input <- read.delim("data/03-input.txt", header = FALSE)
 
 
 # Part 1 ------------------------------------------------------------------
