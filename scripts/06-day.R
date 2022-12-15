@@ -1,4 +1,4 @@
-input <- readLines("./data/05-input.txt")
+input <- readLines("./data/06-input.txt")
 
 
 input
